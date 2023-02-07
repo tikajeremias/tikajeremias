@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Jeremias Tika! 📍 Now living in ARG
+
+I'm a Software Engineer. my passion is the design an create digital content, Actively looking to expand my knowledge in UX/UI dev and Web Technologies.
+I'm always working on a new project to professionalize myself in technologies development.
+
+### 📫 How to reach me
+
+I have a personal website at https://jeremias-cv.web.app/ where all my social networks are located! You can reach me in this website!
+or on my personal mail tikajeremias@gmail.com
 
 <!--
 **tikajeremias/tikajeremias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
