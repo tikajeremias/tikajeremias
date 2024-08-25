@@ -1,7 +1,4 @@
 <div align="center">
-  <h1 align="center">
-    Hi Devs! 👋
-  </h1>
   <img src='./Banner.png'/>
   <p align="center">
     I'm a Software Engineer. my passion is the design and create complete apps, Actively looking to expand my knowledge in Fullstack skills.
