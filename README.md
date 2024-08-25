@@ -1,7 +1,8 @@
 <div align="center">
   <h1 align="center">
-    I'm Jeremias Tika! 👋
+    Hi Devs! 👋
   </h1>
+  <img src='./Banner.png'/>
   <p align="center">
     I'm a Software Engineer. my passion is the design and create complete apps, Actively looking to expand my knowledge in Fullstack skills.
   </p>
